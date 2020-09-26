@@ -7,12 +7,10 @@ _The North American beaver Castor canadensis is widely recognized for its abilit
 
 <b/> Data S1. </b> <br>
 Detection counts per month, in number of days, for terrestrial vertebrate species that were observed at either of two littoral North American beaver _Castor canadensis_ lodges between October 2016 and February 2018 in Rice Pond, Oswego, New York.
-
 <br>
 
 <b/> Data S2. </b> <br>
 Species richness and North American beaver _Castor canadensis_ detection counts per beaver lodge as well as weather and vegetative condition data per month between October 2016 and February 2018 in Rice Pond, Oswego, New York.
-
 <br>
 
 <b/> BeaverLodges R script. </b> <br>
