@@ -2,6 +2,7 @@
 
 ## Abstract: 
 The North American beaver _Castor canadensis_ is widely recognized for its ability to modify freshwater habitats and facilitate changes in community composition. However, the seasonal composition of terrestrial wildlife at littoral beaver lodges remains poorly described, even though these structures are distinctive semi-permanent features of the terrestrial-aquatic interface and thus important resources for wildlife. Over 17 months, we used camera trapping, weather data, and satellite vegetation data to determine how vertebrate species richness and seasonal changes in community composition are associated with beaver activity and beaver lodges in a temperate artificial pond. Our results indicate clear changes in the composition of lodge visitors across seasons. Moreover, species richness was not strongly associated with beaver activity, vegetative condition, or weather condition. Littoral beaver lodges are likely important foraging sites for a wide range of taxa throughout the year. Our findings highlight the importance of beaver lodges in facilitating seasonal interactions and variation in species composition. We hope our work can be used as a baseline to investigate the importance of beaver structures in promoting diversity at the terrestrial-aquatic interface.
+<br>
 
 ## In this repository:
 <b/> Data S1. </b> <br>
@@ -13,11 +14,7 @@ Species richness and North American beaver _Castor canadensis_ detection counts 
 <br>
 
 <b/> BeaverLodges R script. </b> <br>
-R code for producing figures and performing linear regressions between environmental variables, beaver activity, and species richness. 
-<br>
-
-## Funding:
-Imran Razik was supported by the Rice Creek Field Station Small Grants Program and the Rochester Academy of Science. 
+R code for reproducing figures and results.
 <br>
 
 ## Link to full text:
