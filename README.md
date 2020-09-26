@@ -15,3 +15,7 @@ Species richness and North American beaver _Castor canadensis_ detection counts 
 
 <b/> BeaverLodges R script. </b> <br>
 R code for producing figures and performing linear regressions between environmental variables, beaver activity, and species richness. 
+<br>
+
+## Link to full text:
+https://doi.org/10.3996/092019-JFWM-078
